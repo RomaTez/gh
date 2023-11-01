@@ -1,7 +1,7 @@
 import requests
 def create_github_repo(repo_name):
     username = "RomaTez"
-    token = "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"
+    token = "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"
 
     headers = {
         "Authorization": f"Token {token}"
