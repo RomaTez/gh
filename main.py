@@ -1,3 +1,4 @@
+import requests
 
 def create_github_repository(repo_name):
     # Создание нового репозитория
